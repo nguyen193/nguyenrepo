@@ -1,0 +1,32 @@
+body{
+     display : flex;
+     font-size: 20px;
+     font-family: cursive;
+     flex-direction:column;
+}
+.middle{
+     width: 600px;
+     items-align : center;
+     margin: auto;
+}
+.iprod{
+     width: 200px;
+     height: 20px;
+}
+textarea{
+     height: 150px;
+     width: 400px;
+     resize: none;
+}
+button{
+     width: 100px;
+}
+#update-section{
+     display: none;
+}
+#status{
+     font-size: 15px;
+     font-family: Courier New;
+     font-weight: bold;
+     color : red;
+}
